@@ -37,6 +37,11 @@
   -webkit-text-fill-color: transparent;
   background-clip: text;
   margin: 0 0 0.5rem 0;
+  word-wrap: break-word;
+  overflow: visible;  
+  display: inline-block;  
+  width: auto;
+  max-width: 100%;
 }
 
 .dashboard-header p {

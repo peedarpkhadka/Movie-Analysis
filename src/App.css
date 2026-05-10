@@ -39,7 +39,7 @@
   font-weight: 700;
   background: linear-gradient(135deg, #a78bfa 0%, #f472b6 100%);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: limegreen;
   background-clip: text;
   margin: 0 0 0.5rem 0;
   overflow: visible;  
